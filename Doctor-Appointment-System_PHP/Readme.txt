@@ -14,10 +14,3 @@ How to run the Doctor Appointment Management System Project Using PHP and MySQL
 
 7. Run the script http://localhost/dams
 
-Doctor Login
-
-Username: anu@gmail.com
-
-Password: Test@123
-
-Or Register a new user.
